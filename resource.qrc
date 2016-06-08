@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/apple.png</file>
+        <file>Image/diamond.png</file>
+        <file>Image/pineapple.png</file>
+        <file>Image/0.png</file>
+        <file>Image/1.png</file>
+        <file>Image/2.png</file>
+        <file>Image/3.png</file>
+        <file>Image/4.png</file>
+        <file>Image/5.png</file>
+        <file>Image/6.png</file>
+        <file>Image/7.png</file>
+        <file>Image/8.png</file>
+        <file>Image/9.png</file>
+        <file>Image/highscore.png</file>
+        <file>Image/score.png</file>
+        <file>Image/begin.png</file>
+        <file>Image/beg.png</file>
+        <file>Image/bird1.png</file>
+        <file>Image/bird2.png</file>
+        <file>Image/blue.png</file>
+        <file>Image/gray.png</file>
+        <file>Image/white.png</file>
+        <file>Image/bg.png</file>
+        <file>Image/help.png</file>
+        <file>Image/help0.png</file>
+        <file>Image/play.png</file>
+        <file>Image/play0.png</file>
+        <file>Image/quit.png</file>
+        <file>Image/quit0.png</file>
+        <file>Image/help_content.png</file>
+        <file>Image/bg.jpg</file>
+        <file>Image/angry.png</file>
+        <file>Image/angry_start.png</file>
+        <file>Image/jump.png</file>
+        <file>Image/thank_you.png</file>
+    </qresource>
+</RCC>
